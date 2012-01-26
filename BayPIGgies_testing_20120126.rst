@@ -1,0 +1,97 @@
+Introduction
+=============
+
+    Title:
+        Introducing TDD and GTD on a small team
+        
+    Summary:
+        Getting things done is fun
+        Test driven development is tough 
+        Together they can form a productive tension 
+
+    About the Speaker:
+        Name: Hy Carrel
+        Email: hy@moduleq.com
+        Nugget: https://github.com/grepdisc/python_testing_talk
+
+
+
+
+
+Goals
+======
+
+    I want to share why:
+        testing is hard              (so is exercise)
+        testing is important         (so is healthy eating)
+        testing is a journey         (it is its own reward)
+
+
+
+
+
+What's Involved
+=================
+    Test driven development:
+        1. write a failing test
+        2. write code to pass that test
+        3. repeat and refactor
+    
+    Fixtures:
+        If testing were simple, we wouldn't need fixtures
+        Fixtures and decorators reduce boilerplate
+    
+    Advice:
+        Stick with testing
+        Test with a friend
+
+
+
+
+
+Balanced testing
+=================
+    
+    Focus on the big picture!
+        integration tests 
+        walking skeleton
+        concentrate on interfaces
+
+    Dig into the details!
+        unit tests
+        What do you care about?     Test it.
+
+
+
+
+
+Conclusion
+===========
+
+    Hypothesis:
+        sticking with testing grows better software and developers
+
+
+
+
+
+References
+-----------
+
+    getting started
+        unittest [http://docs.python.org/library/unittest.html]
+        unittest2 for Python 2.4 - 2.6 (also runs on Python 2.7)
+        nose [http://readthedocs.org/docs/nose/en/latest/usage.html]
+        intro to nose [http://ivory.idyll.org/articles/nose-intro.html]
+        coverage [http://nedbatchelder.com/code/coverage/]
+    wise opinions
+        JJ [https://github.com/jjinux/pyteladventure/blob/master/pybdd_talk.txt]
+    advanced
+        CI/Github [http://www.alexconrad.org/2011/10/jenkins-and-python.html]
+        mock [http://www.voidspace.org.uk/python/mock/]
+        lettuce (BDD) [http://lettuce.it/]
+    books
+        title: Foundations of Agile Python Development
+        author: Jeff Younker
+        title: Growing Object-Oriented Software, Guided By Tests
+        author: Steve Freeman and Nat Pryce
