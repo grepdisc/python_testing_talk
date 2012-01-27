@@ -5,9 +5,9 @@ Introduction
         Introducing TDD and GTD on a small team
         
     Summary:
-        Getting things done is fun
-        Test driven development is tough 
-        Together they can form a productive tension 
+        Getting things done is fun.
+        Test driven development is tough. 
+        Relish the productive tension between them.
 
     About the Speaker:
         Name: Hy Carrel
@@ -38,12 +38,12 @@ What's Involved
         3. repeat and refactor
     
     Fixtures:
-        If testing were simple, we wouldn't need fixtures
-        Fixtures and decorators reduce boilerplate
+        if testing were simple, we wouldn't need fixtures
+        fixtures and decorators reduce boilerplate
     
     Advice:
-        Stick with testing
-        Test with a friend
+        stick with testing
+        test with a friend
 
 
 
@@ -76,7 +76,7 @@ Conclusion
 
 
 References
------------
+===========
 
     getting started
         unittest [http://docs.python.org/library/unittest.html]
