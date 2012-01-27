@@ -71,6 +71,10 @@ Conclusion
     Hypothesis:
         sticking with testing grows better software and developers
 
+    Open questions:
+        What is a Python package with fantastic tests?
+        Does testing ever become an easy process?
+
 
 
 
